@@ -1,0 +1,15 @@
+{
+  "name": "三年级同步训练",
+  "short_name": "三年级训练",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8ee",
+  "theme_color": "#ff7a45",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgcng9IjM4IiBmaWxsPSIjZmY3YTQ1Ii8+PHRleHQgeD0iOTYiIHk9IjEyOCIgZm9udC1zaXplPSI5NiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iI2ZmZiIgZm9udC1mYW1pbHk9InN5c3RlbS11aSI+5LiJPC90ZXh0Pjwvc3ZnPg==",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
